@@ -1,8 +1,4 @@
-<h1>vue-pure-admin精简版</h1>
-
-[![license](https://img.shields.io/github/license/xiaoxian521/vue-pure-admin.svg)](LICENSE)
-
-**中文** | [English](./README.en-US.md)
+# thin-pure-admin
 
 ## 介绍
 

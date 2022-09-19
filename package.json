@@ -1,5 +1,5 @@
 {
-  "name": "pure-admin-thin",
+  "name": "thin-pure-admin",
   "version": "3.5.0",
   "private": true,
   "scripts": {
@@ -131,7 +131,7 @@
       ]
     }
   },
-  "repository": "git@github.com:xiaoxian521/pure-admin-thin.git",
-  "author": "xiaoxian521",
+  "repository": "https://github.com/LiZhaoYangClub/thin-pure-admin.git",
+  "author": "aklzyang",
   "license": "MIT"
 }
